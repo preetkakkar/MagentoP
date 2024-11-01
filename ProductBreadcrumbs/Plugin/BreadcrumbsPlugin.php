@@ -1,5 +1,5 @@
 <?php
-namespace AMI\ProductBreadcrumbs\Plugin;
+namespace MagentoP\ProductBreadcrumbs\Plugin;
 
 use Magento\Catalog\ViewModel\Product\Breadcrumbs as OriginalBreadcrumbs;
 use Magento\Catalog\Api\CategoryRepositoryInterface;

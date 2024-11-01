@@ -4,11 +4,11 @@ Full categories product breadcrumb for Magento 2 Module
 
 Add module to app/code
 
-<strong>Magento Commands</strong>
+<strong>Magento Commands</strong><br />
 php bin/magento setup:upgrade
 php bin/magento setup:compile
 php bin/magento cache:clean
 
 
-<strong>If not visible, pdate breacrumbs file in theme</strong>
+<strong>If not visible, pdate breacrumbs file in theme</strong><br />
 app/design/frontend/vendor/theme/Magento-catalog/view/frontend/templates/product/breadcrumbs.phtml

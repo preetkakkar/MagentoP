@@ -1,6 +1,6 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'AMI_ProductBreadcrumbs',
+    'MagentoP_ProductBreadcrumbs',
     __DIR__
 );

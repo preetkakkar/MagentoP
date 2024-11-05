@@ -9,9 +9,9 @@ When customers land on a product page, the breadcrumb clearly indicates the prod
 Add module to app/code
 
 <strong>Magento Commands</strong><br />
-php bin/magento setup:upgrade
-php bin/magento setup:compile
-php bin/magento cache:clean
+php bin/magento setup:upgrade<br />
+php bin/magento setup:compile<br />
+php bin/magento cache:clean<br />
 
 
 <strong>If not visible, update breacrumbs file in theme</strong><br />

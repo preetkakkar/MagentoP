@@ -20,3 +20,6 @@ app/design/frontend/vendor/theme/Magento_Catalog/templates/product/breadcrumbs.p
 <strong>Example of breadcrumbs below</strong><br /> 
 Home > Sub Category > Product <br />
 ![example](https://github.com/user-attachments/assets/fadb1e0e-e733-4dd2-9398-65c6cb39c361)
+
+<strong>Check full/long breadcrumbs here:</strong><br />
+<a href="https://github.com/preetkakkar/MagentoModule">Full breadcrumbs module</a>
